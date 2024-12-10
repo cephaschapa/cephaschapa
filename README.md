@@ -10,7 +10,7 @@
 - 📫 How to reach me **cephaschapa@gmail.com**
 
 - ⚡ Fun fact **I think im funny**
-- [![committers.top badge](https://user-badge.committers.top/zambia_public/USERNAME.svg)](https://user-badge.committers.top/zambia_public/USERNAME)
+- [![committers.top badge](https://user-badge.committers.top/zambia_public/cephaschapa.svg)](https://user-badge.committers.top/zambia_public/cephaschapa)
 
 
 <h3 align="left">Connect with me:</h3>
